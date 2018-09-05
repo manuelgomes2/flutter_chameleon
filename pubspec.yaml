@@ -5,7 +5,7 @@ author: Salvatore Giordano <salvatoregiordanoo@gmail.com>
 homepage: https://github.com/Salvatore-Giordano/flutter_chameleon
 
 environment:
-  sdk: ">=1.2.0  <=2.0.0"
+  sdk: ">=1.2.0  <=2.1.0"
 
 dependencies:
   flutter:
